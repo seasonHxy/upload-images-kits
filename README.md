@@ -1,1 +1,2 @@
-# upload-images-kits
+# Vue 图片上传预览组件
+组件保存的是图片的 base64 码
